@@ -3,6 +3,7 @@ In this assignment, A MHN admin VM was created as well as a MHN Honeypot VM usin
 
 # Honeypot(s) deployed
  A Dionaea over HTTP Honeypot was deployed and attacked.
+ https://imgur.com/a/8eJ1E
  
 # Issues encountered
  - Unable to download session.json
@@ -12,5 +13,5 @@ In this assignment, A MHN admin VM was created as well as a MHN Honeypot VM usin
 # Summary of Data collected:
 After starting the command nmap -sV -P0 35.193.152.53 the MHN login showed over 1000 attacks from nmap from tools such as pcap, epmapper, smbd, mysqld.
 
-# unresolved questions raised by data collected
+# Unresolved questions raised by data collected
 I wish I could take a peak at the json file so I can find more information on data collected. But from the attacks I see, I would like to know what these attacks achieved and what information they were able to find.
