@@ -1,6 +1,14 @@
 # Cyber-Security-Assignment-9 
 In this assignment, A MHN admin VM was created as well as a MHN Honeypot VM using Google Cloud Platform. After various instalations, I was able to attack the honeypot using nmap.
 
+Step 1: Create Google Cloud account
+Step 2: Create MHN Admin VM
+Step 3: Install MHN Admin Application
+Step 4: Create a MHN Honeypot VM
+Step 5: Install the Honeypot Application
+Step 6: Attack the Honeypot
+Step 7: Export data
+
 # Honeypot(s) deployed
  A Dionaea over HTTP Honeypot was deployed and attacked.
  https://imgur.com/a/8eJ1E
